@@ -2,23 +2,23 @@
 # Customize Options: Must Change
 #
 # Title:
-title: Duo, A Simple Jekyll Theme
+title: "the blog of ed shelley"
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-url: "https://chibicode.github.io"
+url: "https://blog.edshelley.com"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, write:
 #
 # baseurl: nil
-baseurl: "/duo/"
+baseurl:
 
 # Twitter IDs
 twitter:
-  username: "chibicode"
+  username: "mr_ed"
 author:
-  twitter: "chibicode"
+  twitter: "mr_ed"
 
 # Set default og:image
 # From Unsplash: https://unsplash.com/photos/1_CMoFsPfso
@@ -27,7 +27,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "static/images/og.jpg"
+      image: 
 
 # ----------------------------------------------------------------------------
 # Customize Options: Optional
