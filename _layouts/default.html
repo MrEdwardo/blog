@@ -29,15 +29,18 @@
   <body>
     <main class="measure-wide center ph3 pt5 pb6">
       {% if is_home %}
-      <h1 class="mt0 mb4">
+      <h2 class="mt0 mb4">
       {% else %}
       <h2 class="mt0 mb5">
       {% endif %}
         <a
           href="{{ "/" | relative_url }}"
-          class="no-underline bg-{{ site.brand_color }}">
+          class="no-underline bg-{{ site.brand_color }}"
+          style="font-size: 60px;">
           {{site.title}}
-        </a>
+        </a><br/>        
+          {{site.subtitle}}
+        <br/><br/><a href="https://twitter.com/Mr_Ed?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @Mr_Ed</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       {% if is_home %}
       </h1>
       {% else %}

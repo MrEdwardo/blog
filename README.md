@@ -1,4 +1,3 @@
-<a href="https://twitter.com/Mr_Ed?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @Mr_Ed</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Straight to your inbox, with love 💌
 
