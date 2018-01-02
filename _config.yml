@@ -42,13 +42,13 @@ brand_color: "amber-400"
 permalink: posts/:title/
 
 # "UA-NNNNNNNN-N"
-google_analytics: ""
+google_analytics: "UA-19619576-8"
 
 # Language. For example, if you write in Japanese, use "ja"
 lang: "en"
 
 # How many posts are visible on the home page without clicking "View More"
-num_posts_visible_initially: 5
+num_posts_visible_initially: 10
 
 # Date format: See http://strftime.net/
 date_format: "%b %-d, %Y"
